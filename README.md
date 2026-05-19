@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayhew910" alt="jayhew910" /></a> </p>
 
-- 🌱 I’m currently learning **C# & OOP**
+- 🌱 I’m currently working on **Semicon Software Development** and **Customized Software/Webapp for SME**
 
 - 💬 Ask me about **ML & AI**
 
